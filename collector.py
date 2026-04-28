@@ -8,8 +8,8 @@ model = WhisperModel(
 )
 
 TOKENS_PER_WORD = 2.08
-INPUT_PRICE_PER_1M = 2.5
-OUTPUT_PRICE_PER_1M = 15
+INPUT_PRICE_PER_1M = 10
+OUTPUT_PRICE_PER_1M = 60
 
 total_words = 0
 
